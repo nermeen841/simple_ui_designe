@@ -1,0 +1,1301 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tata Motors Cars, Sedans, Hatchbacks, SUVs | Tata Motors Limited</title>
+<meta name='Description' content='Tata Motors official website for passenger cars in India. View the latest cars and SUVs by Tata Motors, locate a dealer, or book a test drive today. Click here' />
+<meta name='Keywords' content='tata motors cars, passenger cars in india, tata motors suvs, automobile manufacturers in india' />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+<!-- Canonical -->
+<link rel="canonical" href="https://cars.tatamotors.com" />
+<!-- Bootstrap -->
+<link href="/fonts/fonts.css" rel="stylesheet">
+<link href="/css/owl.carousel.min.css" rel="stylesheet">
+<link href="/css/header.css" rel="stylesheet">
+<!--<link href="/css/style.css" rel="stylesheet">-->
+<link href="/css/SumoSelect_v1.css" rel="stylesheet" />
+<link href="/css/home.css" rel="stylesheet">
+<link href="/css/homev2.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M5QCTM7');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MV54PCJ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Hotjar Tracking Code for https://cars.tatamotors.com -->
+<script>
+(function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:1830383,hjsv:6};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "organization",
+    "name": "Tata Motors Ltd.",
+    "parentOrganization": "Tata Group",
+    "founder": "J. R. D. Tata",
+    "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ahura Centre, Mahakali Caves Rd",
+    "postalCode": "400093",
+    "streetAddress": "Shanti Nagar, Andheri East",
+    "addressRegion": "Mumbai, Maharashtra",
+    "addressCountry": "India"
+    },
+    "url": "https://cars.tatamotors.com/",
+    "logo": "https://cars.tatamotors.com/images/tata-motors-logo.png",
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "1800 209 8282",
+    "email": "customercare@tatamotors.com",
+    "contactType": "customer service",
+    "areaServed": "IN",
+    "availableLanguage": "Hindi, English"
+    },
+    "sameAs": [
+    "https://www.facebook.com/officialtatamotorscars/",
+    "https://twitter.com/TataMotors_Cars/",
+    "https://www.instagram.com/tatamotorsgroup/",
+    "https://www.youtube.com/user/TataMotorsGroup"
+    ]
+    }
+</script>
+</head>
+
+<body>
+    <!-- Start Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5QCTM7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV54PCJ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <header>
+        <div class="logo_header">
+            <div class="max_width">
+                <div class="all_logo">
+                    <div class="logo">
+                        <a href="/"><img src="/images/tata-motors-logo.png" alt="" title="" width="179" height="45" /></a>
+                    </div>
+                    <div class="logo">
+                    </div>
+                    <div class="logo">
+                        <a href="https://www.tata.com/" target="_blank"><img src="/images/tata-logo.png" alt="" title="" width="74" height="61" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main_navbar" id="myHeader">
+            <div class="">
+                <div class="mobile_hamburger hiddenDesktop">
+                    <a href="javascript:;">
+                        <!-- Menu -->
+                        <span></span>
+                    </a>
+                </div>
+                <nav>
+                    <ul>
+                        <li class="dropdown model-nav">
+                            <a href="javascript:;">Brands</a>
+                            <ul class="showInMobile">
+                                <p><span>Cars</span></p>
+                                <li>
+                                    <a href="/cars/tiago">
+                                        <img src="/images/menu/tiago.png" alt="Tiago" width="350" height="170" />
+                                        Tiago
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/cars/altroz">
+                                        <img src="/images/menu/altroz.png" alt="Tiago" width="350" height="170" />
+                                        Altroz
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/cars/tigor">
+                                        <img src="/images/menu/tigor.png" alt="Tiago" width="350" height="170" />
+                                        Tigor
+                                    </a>
+                                </li>
+                                <br>
+                                <br>
+                                <p><span>SUVs</span></p>
+                                <li>
+                                    <a href="/suv/nexon">
+                                        <img src="/images/menu/nexon.png" alt="Tiago" width="350" height="170" />
+                                        Nexon
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/suv/harrier">
+                                        <img src="/images/menu/Harrier.png" alt="Tiago" width="350" height="170" />
+                                        Harrier
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;">About</a>
+                            <ul class="showInMobile">
+                                <p><span>About</span></p>
+                                <!--<li>
+                                    <a href="javascript:;"><span>News</span></a>
+                                </li>-->
+                                <li>
+                                    <a href="/#forever"><span>Brand Story</span></a>
+                                    <br>
+                                    <div class="inner-links">
+                                        <a class="no-link">Safety</a>
+                                        <a class="no-link">Design</a>
+                                        <a class="no-link">Performance</a>
+                                        <a class="no-link">Technology</a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="javascript:;"><span>Events</span></a>
+                                    <br>
+                                    <div class="inner-links">
+                                        <a href="/ipl/2020">IPL 2020</a>
+                                        <a href="/stoptheendlessaccident">World Mental Health Day</a>
+                                        <a href="/auto-expo">Auto Expo</a>
+                                        <a href="/safety-first">Safety First</a>
+                                        <a href="/ludo">Ludo</a>
+                                    </div>
+                                </li>
+
+
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;">Owners</a>
+                            <ul class="showInMobile">
+                                <p><span>Owners</span></p>
+                                <li>
+                                    <a href="/service"><span>Service</span></a>
+                                    <br>
+                                    <div class="inner-links">
+                                        <a href="/service/service-network">Service Network</a>
+                                        <a href="https://dealer-locator.cars.tatamotors.com/">Locate a Dealer</a>
+                                        <a href="/service">Our Offerings</a>
+                                        <a href="/service">Owners</a>
+                                        <a href="/service/contact-us">Contact Us</a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="/soul"><span>SOUL - SUV Owners United League</span></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;">Shopping</a>
+                            <ul class="showInMobile">
+                                <p><span>Shopping</span></p>
+                                <li>
+                                    <a href="https://dealer-locator.cars.tatamotors.com/">Locate a Dealer</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://imaginator.tatamotors.com/altroz/#/build/showcase"><span>Imaginator</span></a>
+                                </li>
+                                <li>
+                                    <a href="/book-online"><span>Click to Drive</span></a>
+                                </li>
+                                <li>
+                                    <a href="/shopping/offers"><span>Offers</span></a>
+                                </li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="clearMainHeight"></div>
+    <form id="__AjaxAntiForgeryForm" action="#" method="post"><input name="__RequestVerificationToken" type="hidden" value="qrqTZXrupuzJpVT4zKE71QLlJrHCKBALlEugRkWKlXfatnhsZ5X88B0nTVT1409gi9qBZ5t9tJx1ONQM6BV7tUOoujRoLzwU0jEXBKhcOm41" /></form>
+    
+
+<div class="sticky-btns"><a href="tel:1800 209 8282" class="icon-hide-Desktop"> <span> <img src="/images/phone-call.svg" onclick="DataLayerFloatingButtons ('Call')" width="30" height="30" alt="" /> </span> </a> <!--<a class="whatsapp-sticky-btns"> <span> <img src="/images/whatsapp-icon.svg" width="30" height="30" alt="" /> </span> </a> --> <a class="icon-hide-Desktop" href="https://dealer-locator.cars.tatamotors.com/"> <span> <img src="/images/location-icon.svg" onclick="DataLayerFloatingButtons ('Location')" width="30" height="30" alt="" /> </span> </a> <a class="whatsapp-sticky-btns icon-hide-Desktop" href="https://wa.me/912267927319" target="_blank" rel="noopener"> <span> <img src="/images/whatsapp-icon.svg" onclick="DataLayerFloatingButtons ('Whatsapp')" width="30" height="30" alt="" /> </span> </a></div>
+<section>
+<div class="scroll-menu"><a class="dot" href="#home"><span>Home</span></a> <a class="dot" href="#forever"><span>New Forever</span></a> <a class="dot" href="#our-brands"><span>Our Brands</span></a><a class="dot" href="#ipl2020"><span>IPL 2020</span></a> <!--<a class="dot" href="#find-your-car"><span>Find your Car</span></a>--> <a class="dot" href="#imaginator"><span>Imaginator</span></a> <a class="dot" href="#social"><span>Tata Motors on Social</span></a></div>
+<!-- <div id="home" class="clear">
+<div class="iframe_banner-home"></div>
+</div> --></section>
+<!-- <section id="home" class="section banner_section">
+<div class="slider_img"><span class="hiddenMobile clear"> <img src="/images/spotlight-poster.jpg" /> 
+            </video> </span> <span class="hiddenDesktop"> <img src="/images/m-spotlight-poster-new.jpg" />
+            </video>  </span></div>
+</section> --> <!-- <div id="home" class="clear">
+<div class="iframe_banner-home"></div>
+</div>  --> <!-- <section id="home" class="section banner_section">
+<div class="slider_img"><span class="hiddenMobile clear"> 
+    <img src="/images/Altroz_Desktop-IPL-2020-Banner.jpg" width="1920" height="650" alt="" /> </span> 
+    <span class="hiddenDesktop"> <img src="/images/Altroz_Mobile-IPL-2020-Banner.jpg" width="1080" height="800" alt="" /> </span>
+</div>
+</section>  --> <!-- <section id="home" class="section banner_section">
+<div id="main-slider" class="owl-carousel main-slider">
+<div class="item">
+<div class="slider_img"><span class="hiddenMobile"> <img src="/images/spotlight-poster-sept.jpg" alt="" title="" width="1920" height="650" /> </span> <span class="hiddenDesktop"> <img src="/images/m-spotlight-poster-new-sept-1.jpg" alt="" title="" width="1080" height="1189" /> </span></div>
+</div>
+<div class="item">
+<div class="slider_img"><span class="hiddenMobile"> <a href="/ipl/2020"><img src="/images/Altroz_Desktop-IPL-2020-Banner.jpg" alt="" title="" width="1920" height="650" /> </a></span> <span class="hiddenDesktop"> <a href="/ipl/2020"><img src="/images/Altroz_Mobile-IPL-2020-Banner.jpg" alt="" title="" width="1080" height="1189" /> </a> </span></div>
+</div>
+</div>
+</section> --> <audio id="myAudio" loop="loop">
+    <source src="/images/ipl/ipl-audio.ogg" type="audio/ogg" />
+    <source src="/images/ipl/ipl-audio.mp3" type="audio/mpeg" />
+    Your browser does not support the audio element.
+</audio>
+<section id="home" class="">
+<div class="main_slider main-slider">
+<div class="slider_img">
+<div id="video-audio" class="pause-audio"><img src="/images/ipl/mute.png" width="" height="" alt="" /></div>
+<video class="hiddenMobile" width="100%" height="auto" poster="/images/ipl/altroz-ipl-2020-desktop-banner.jpg" muted="" autoplay="autoplay" playsinline="" loop="loop">
+                <source src="/images/ipl/desktop-ipl-video.mp4" type="video/mp4" />
+                <!-- <source src="media/banner-video.ogg" type="video/ogg"> -->
+                <!-- <source src="media/banner-video.webm" type="video/webm" /> -->
+                Your browser does not support the audio element.
+            </video> <video class="hiddenDesktop" width="100%" height="auto" poster="/images/ipl/altroz-ipl-2020-mobile-banner.jpg" muted="" autoplay="autoplay" playsinline="" loop="loop">
+                <source src="/images/ipl/mobile-ipl-video.mp4" type="video/mp4" />
+                <!-- <source src="media/banner-video-mobile.ogg" type="video/ogg"> -->
+                <!-- <source src="media/banner-video-mobile.webm" type="video/webm" /> -->
+                Your browser does not support the audio element.
+            </video></div>
+<div class="slider_img"><span class="hiddenMobile"> <img src="/images/spotlight-poster-sept.jpg" alt="" title="" width="1920" height="650" /> </span> <span class="hiddenDesktop"> <img src="/images/m-spotlight-poster-new-sept-1.jpg" alt="" title="" width="1080" height="1189" /> </span></div>
+<!-- <div class="slider_img"><span class="hiddenMobile"> <a href="/ipl/2020"><img
+                        src="/images/Altroz_Desktop-IPL-2020-Banner.jpg" alt="" title="" width="1920"
+                        height="650" /></a> </span> <span class="hiddenDesktop"> <a href="/ipl/2020"><img
+                        src="/images/Altroz_Mobile-IPL-2020-Banner.jpg" alt="" title="" width="1080"
+                        height="1189" /></a> </span></div> -->
+<div class="slider_img"><span class="hiddenMobile"> <a href="/stoptheendlessaccident"><img src="/images/wmhd/banner/mental-health-kv-1.png" alt="" title="" width="1920" height="650" /></a> </span> <span class="hiddenDesktop"> <a href="/stoptheendlessaccident"><img src="/images/wmhd/banner/mobile-mental-health-kv-1.png" alt="" title="" width="1080" height="1189" /></a> </span></div>
+</div>
+</section>
+<section id="forever" class=" bg-grey section-padding">
+<div class="max_width">
+<div class="clear">
+<div class="width45">
+<div class="title">
+<h2>Brand Story</h2>
+<p>Drive NEW FOREVER. A Whole new range of cars from Tata Motors.</p>
+</div>
+</div>
+</div>
+<div class="clear hiddenMobile">
+<div class="grid_section">
+<div class="flex margin_bottom">
+<article class="grids width60 shadow margin_right">
+<div class="width60 relative_height modan-height"><span class="arrow-right"></span> <img class="gridImg" src="/images/performance-new.jpg" alt="" title="" width="439" height="360" /></div>
+<div class="width40 position_relative paddingAll">
+<div class="grid_content">
+<h4><a>PERFORMANCE <!-- <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a> --> </a></h4>
+<p>New is about ensuring your free spirit is unshaken with ESP and multi-drive modes. This journey of creating and evoking joy, will be forever. Because the spirit that loves to drive, is exactly that</p>
+</div>
+</div>
+</article>
+<article class="grids lightGrid width40 shadow paddingAll margin_left"><img class="gridImg" src="/images/design.jpg" alt="" title="" width="554" height="362" />
+<div class="grid_content design-content">
+<h4><a>Design <!-- <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a> --> </a></h4>
+<p>It’s true. Design shouldn’t just look great, it should do great things. But while being new, design needs to evoke a love that’s eternal. Design shouldn’t just be new. It needs to Drive New Forever.</p>
+</div>
+</article>
+</div>
+<div class="flex">
+<article class="grids width100 shadow">
+<div class="width50 relative_height modan-height"><span class="arrow-right"></span> <img class="gridImg" src="/images/safety-new-02.jpg" alt="" title="" width="439" height="360" /></div>
+<div class="width50 position_relative paddingAll">
+<div class="grid_content"><br /><br /><br /><br />
+<h4><a> SAFETY <!-- <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a> --> </a></h4>
+<p>With architecture itself that’s built for safety, we made your oldest need, new. Dangers become new too, Safety can’t just be new once. It has to be New Forever. We Drive New Forever.</p>
+<br /><br /><br /><br /></div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="clear hiddenDesktop">
+<div class="new-forever">
+<div class="forever-item"><img src="/images/performance-mobile-new.jpg" alt="" width="745" height="705" />
+<div class="grid_content">
+<h4><a>Performance <!-- <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a> --> </a></h4>
+<p>New is about ensuring your free spirit is unshaken with ESP and multi-drive modes. This journey of creating and evoking joy, will be forever. Because the spirit that loves to drive, is exactly that</p>
+</div>
+</div>
+<div class="forever-item"><img src="/images/design-mobile.jpg" alt="" width="745" height="705" />
+<div class="grid_content">
+<h4><a>DESIGN <!-- <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /> --> </a></h4>
+<p>It’s true. Design shouldn’t just look great, it should do great things. But while being new, design needs to evoke a love that’s eternal. Design shouldn’t just be new. It needs to Drive New Forever.</p>
+</div>
+</div>
+<div class="forever-item"><img src="/images/safety-mobile-new.jpg" alt="" width="745" height="705" />
+<div class="grid_content">
+<h4><a>SAFETY <!-- <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a> --> </a></h4>
+<p>With architecture itself that’s built for safety, we made your oldest need, new. Dangers become new too, Safety can’t just be new once. It has to be New Forever. We Drive New Forever.</p>
+</div>
+</div>
+<!-- <div class="forever-item"><img src="/images/technology-mobile.jpg" alt="" width="745" height="705" />
+                    <div class="grid_content">
+                        <h4><a>TECHNOLOGY
+                            </a></h4>
+                        <p>Technology is new today with iRA, our own indigenous automated software, because it is in
+                            sync with the oldest of India’s needs. We don’t just drive new, We drive new forever.</p>
+                    </div>
+                </div> --></div>
+</div>
+</div>
+</section>
+<section id="our-brands" class="cars-section-new section-padding">
+<div class="max_width">
+<div class="clear">
+<div class="width33 hiddenMobile">
+<div class="title">
+<h2>Our Brands</h2>
+</div>
+</div>
+<div class="width33 hiddenDesktop">
+<div class="title">
+<h2>Our CARS</h2>
+<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt sapien ultricies ipsum consequat vehicula id quis tellus.</p> --></div>
+</div>
+</div>
+<div class="clear tab">
+<h4>Our Cars</h4>
+<div class="tab-slider">
+<div class="item animated fadeIn tiago-section"><span class="hiddenMobile"> <img src="/images/tiago-banner.jpg" alt="" width="1380" height="640" /> </span> <span class="hiddenDesktop"> <img src="/images/tiago-mobile-banner.jpg" alt="" width="1080" height="1085" /> </span>
+<div class="tab-content right-content">
+<h3><span>Tata</span> TIAGO</h3>
+<div class="line"></div>
+<p>Younger than ever. Bolder than ever. Inspired by the spirited youth, the all-new Tiago is hard to ignore. Drive around the city and watch heads turn towards you.</p>
+<a href="/cars/tiago">Know More <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+<div class="item animated fadeIn altroz-section hide"><span class="hiddenMobile"> <img src="/images/altroz-banner.jpg" alt="" width="1380" height="640" /> </span> <span class="hiddenDesktop"> <img src="/images/altroz-mobile-banner.jpg" alt="" width="1080" height="1085" /> </span>
+<div class="tab-content left-content">
+<h3><span>Tata</span> ALTROZ</h3>
+<div class="line"></div>
+<p><b>The Gold Standard</b></p>
+<p>Inspired by the world of laser carving, the exteriors of Altroz exemplify athletic sharpness. Design so sharp, it cuts through the air like a hot knife through butter.</p>
+<p><b><a href="/cars/altroz">Know More <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a> </b></p>
+</div>
+</div>
+<div class="item animated tigor-section fadeIn hide"><span class="hiddenMobile"> <img src="/images/tigor-banner.jpg" alt="" width="1380" height="640" /> </span> <span class="hiddenDesktop"> <img src="/images/tigor-mobile-banner.jpg" alt="" width="1080" height="1085" /> </span>
+<div class="tab-content right-content">
+<h3><span>Tata</span> TIGOR</h3>
+<div class="line"></div>
+<p><b>Sedan for the Stars</b><br />Stunning style, state-of-the-art features, comprehensive safety and seamlessly smooth drives of the New Tigor ensure you are in your element while exploring the city.</p>
+<a href="/cars/tigor">Know More <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+</div>
+<div class="tab-btn">
+<div class="overlay"></div>
+<a class="tiago-btn tab-active"><img src="/images/tiago-thumb.jpg" alt="" height="255" width="460" /> <span>TATA TIAGO</span> </a>
+<div class="overlay"></div>
+<a class="altroz-btn"><img src="/images/altroz-thumb.jpg" alt="" height="255" width="460" /> <span>TATA ALTROZ</span> </a>
+<div class="overlay"></div>
+<a class="tigor-btn"><img src="/images/tigor-thumb.jpg" alt="" height="255" width="460" /> <span>TATA TIGOR</span> </a></div>
+</div>
+<div class="margin-top"></div>
+<div class="clear">
+<div class="width33 hiddenDesktop">
+<div class="title">
+<h2>Our SUV<span>s</span></h2>
+</div>
+</div>
+</div>
+<div class="clear tab">
+<h4>Our SUVs</h4>
+<div class="tab-slider">
+<div class="item animated fadeIn nexon-section"><span class="hiddenMobile"> <img src="/images/Nexon-desktop-banner-19-20.png" alt="" width="1380" height="640" /> </span> <span class="hiddenDesktop"> <img src="/images/Nexon-mobile-banner-19-20.png" alt="" width="1080" height="1085" /> </span>
+<div class="tab-content left-content">
+<h3><span>Tata</span> NEXON</h3>
+<div class="line"></div>
+<p>From level nex design to a level above. From having truly cutting-edge technology to the next level of that. From being the most loved car each time to being ahead of its time.</p>
+<a href="/suv/nexon">Know More <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+<div class="item animated fadeIn harrier-section hide"><span class="hiddenMobile"> <img src="/images/harrier-banner.jpg" alt="" width="1380" height="640" /> </span> <span class="hiddenDesktop"> <img src="/images/harrier-mobile-banner.jpg" alt="" width="1080" height="1085" /> </span>
+<div class="tab-content left-content">
+<h3><span>Tata</span> HARRIER</h3>
+<div class="line"></div>
+<p>The All -New Harrier is here, now available with an advanced 6 speed Automatic Transmission. Born of legendary Land Rover pedigree, the Harrier comes packed with a host of exciting features and advanced enhancements.</p>
+<a href="/suv/harrier">Know More <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+</div>
+<div class="tab-btn tab-btn-50">
+<div class="overlay"></div>
+<a class="nexon-btn tab-active"><img src="/images/nexon-thumb-new-img.jpg" alt="" height="250" width="600" /> <span>TATA NEXON</span></a>
+<div class="overlay"></div>
+<a class="harrier-btn"><img src="/images/harrier-thumb-new.jpg" alt="" height="250" width="600" /> <span>TATA HARRIER</span></a></div>
+</div>
+</div>
+</section>
+<!--<section id="find-your-car" class="filter bg-grey section-padding">
+<div class="max_width">
+<div class="clear">
+<div class="width33">
+<div class="title">
+<h2>Find your car</h2>
+</div>
+</div>
+</div>
+<div class="clear">
+<h3 class="filter-by">Filter by Choice :</h3>
+<div class="filter-drop-down">
+<div id="dlbodytype" class="drop-down-item"><span>BodyType - </span><select>
+<option>Select</option>
+<option>Hatchback</option>
+<option>Sedan</option>
+<option>SUV</option>
+</select></div>
+<div id="dlfueltype" class="drop-down-item"><span>Fuel type - </span><select>
+<option>Select</option>
+<option>Petrol</option>
+<option>Diesel</option>
+</select></div>
+<div id="dltransmission" class="drop-down-item"><span>Transmission - </span><select>
+<option>Select</option>
+<option>Automatic</option>
+<option>Manual</option>
+</select></div>
+<div id="dlprice" class="drop-down-item"><span>Price - </span><select>
+<option>Select</option>
+<option>Under 5 Lakhs</option>
+<option>5-7 Lakhs</option>
+<option>7-13 Lakhs</option>
+<option>13 Lakhs and Above</option>
+</select></div>
+</div>
+</div>
+<div class="clear margin-10 filter-scroll">
+<div id="divtiago" class="width25">
+<div class="car-slider">
+<div class="item"><img src="/images/filter-tiago-01.png" alt="" width="378" height="400" /></div>
+<div class="item"><img src="/images/filter-tiago-02.jpg" alt="" width="378" height="400" /></div>
+<div class="item"><img src="/images/filter-tiago-03.jpg" alt="" width="378" height="400" /></div>
+<div class="item"><img src="/images/filter-tiago-04.jpg" alt="" width="378" height="400" /></div></div>
+<div class="car-item-name">
+<h3>Tata Tiago <span class="right">₹ 4.6 LAKHS*</span></h3>
+<p class="variant">Variants available : ALL</p>
+<ul>
+<li>Global NCAP 4 Star Safety Rating</li>
+<li>17.78 cm Touchscreen Infotainment by Harman<sup>TM</sup></li>
+<li>Sporty R15 Alloy Wheels</li>
+</ul>
+<a href="/cars/tiago">Know More <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+<div id="divaltroz" class="width25">
+<div class="car-slider">
+<div class="item"><img src="/images/filter-altroz-01.png" alt="" width="378" height="400" /></div>
+</div>
+<div class="car-item-name">
+<h3>Tata Altroz <span class="right">₹ 5.29 LAKHS*</span></h3>
+<p class="variant">Variants available : ALL</p>
+<ul>
+<li>Global NCAP 5 Star Safety Rating</li>
+<li>17.78 cm Touchscreen Infotainment by Harman<sup>TM</sup> with Floating Island Dashboard Design</li>
+<li>Android Auto &amp; Apple CarPlay Connectivity</li>
+</ul>
+<a href="/cars/altroz">Know More <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+<div id="divtigor" class="width25">
+<div class="car-slider">
+<div class="item"><img src="/images/filter-tigor-01.png" alt="" width="378" height="400" /></div>
+</div>
+<div class="car-item-name">
+<h3>Tata Tigor <span class="right">₹ 5.75 LAKHS*</span></h3>
+<p class="variant">Variants available : ALL</p>
+<ul>
+<li>Global NCAP 4 Star Safety Rating</li>
+<li>17.78 cm Touchscreen Infotainment by Harman<sup>TM</sup></li>
+<li>Android Auto &amp; Apple CarPlay Connectivity</li>
+</ul>
+<a href="/cars/tigor">Know More <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+<div id="divnexon" class="width25">
+<div class="car-slider">
+<div class="item"><img src="/images/filter-nexon-01.png" alt="" width="378" height="400" /></div>
+</div>
+<div class="car-item-name">
+<h3>Tata Nexon <span class="right">₹ 6.95 LAKHS*</span></h3>
+<p class="variant">Variants available : ALL</p>
+<ul>
+<li>7" Touchscreen Infotainment by Harman<sup>TM</sup> with Android Auto/ Apple CarPlay</li>
+<li>Electric Sunroof</li>
+<li>iRA Tech &amp; what3words Addressing System</li>
+</ul>
+<a href="/suv/nexon">Know More <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+<div id="divharrier" class="width25">
+<div class="car-slider">
+<div class="item"><img src="/images/filter-harrier-01.png" alt="" width="378" height="400" /></div>
+</div>
+<div class="car-item-name">
+<h3>Tata Harrier <span class="right">₹ 13.69 LAKHS*</span></h3>
+<p class="variant">Variants available : ALL</p>
+<ul>
+<li>6 Speed Automatic Transmission</li>
+<li>Panoramic Sunroof</li>
+<li>170 PS Kryotec BS6 Diesel Engine</li>
+</ul>
+<a href="/suv/harrier">Know More <img src="/images/arrow-black.png" alt="" title="" width="23" height="18" /></a></div>
+</div>
+</div>
+<div id="noresult" style="display: none; font-weight: bold; color: red;"><span>No Result found for searched criteria</span></div>
+</div>
+</section>-->
+<section class="form">
+<div class="max_width">
+<h3>Request a Call Back</h3>
+<form id="demo-form-TD" action="" method="POST">
+<div class="clear">
+<div class="width80">
+<div class="width25 paddingRight">
+<div class="input-container"><input id="NameTD" name="NameTD" class="floatlabel" type="text" /> <label for="NameTD">NAME</label> <span class="error" style="display: none;">Please enter name</span></div>
+</div>
+<div class="width25 paddingRight paddingLeft">
+<div class="input-container"><input id="EmailTD" name="EmailTD" class="floatlabel" type="text" /> <label for="EmailTD">EMAIL</label> <span class="error" style="display: none;">Please enter email Id</span></div>
+</div>
+<div class="width25 paddingRight paddingLeft">
+<div class="input-container"><input id="MobileTD" name="MobileTD" class="floatlabel" type="text" maxlength="10" /> <label for="MobileTD">MOBILE NUMBER</label> <span class="error" style="display: none;">Please enter Mobile number</span></div>
+</div>
+<div class="width25 paddingLeft paddingRight">
+<div class="input-container"><select id="select-car" name="select" class="floatlabel">
+<option value=""></option>
+<option value="1">Altroz</option>
+<option value="2">Nexon</option>
+<option value="3">Tiago</option>
+<option value="4">Tigor</option>
+<!--<option value="6">Hexa</option>-->
+<option value="7">Harrier</option>
+</select><label for="select-car">Select Car Model</label> <span class="error" style="display: none;"></span></div>
+</div>
+</div>
+<div class="width20">
+<div class="paddingLeft">
+<div class="input-container"><button class="" id="btnSubmitTD" onclick="SendOTP_OnPage_Home(event);">Submit</button></div>
+</div>
+</div>
+</div>
+</form>
+<div class="success_lead" style="display: none; color: white;">
+<h5>Your request has been received. We will contact you shortly. <br /><span style="font-size: 13px; padding: 15px 10px 15px 0; display: inline-block;">Disclaimer: *There might be a delay in call back due to the COVID situation. We regret the inconvenience.</span></h5>
+</div>
+<div class="t-c"><a href="/terms-of-use" target="_blank" rel="noopener">*T&amp;C Apply</a></div>
+</div>
+</section>
+<section id="ipl2020" class="imaginator section-padding  imaging-section">
+<div class="max_width">
+<div class="clear">
+<div class="width33">
+<div class="title">
+<h2>IPL 2020</h2>
+</div>
+</div>
+</div>
+<div class="clear">
+<div class="imaging"><a href="/ipl/2020" target="_blank" rel="noopener"> <img class="hiddenMobile" src="/images/Altroz_Desktop-IPL-2020-Banner.jpg" alt="" width="1380" height="500" /> <img class="hiddenDesktop" src="/images/Altroz_Mobile-IPL-2020-Banner.jpg" alt="" width="980" height="980" /> </a></div>
+</div>
+</div>
+</section>
+<section id="imaginator" class="imaginator section-padding  imaging-section">
+<div class="max_width">
+<div class="clear">
+<div class="width33">
+<div class="title">
+<h2>IMAGINATOR</h2>
+</div>
+</div>
+</div>
+<div class="clear">
+<div class="imaging"><a href="https://imaginator.tatamotors.com/altroz/#/build/stylekit-listing?variant=XM&amp;utm_source=HOMEPAGE&amp;utm_medium=traffic&amp;utm_campaign=Build_Book" target="_blank" rel="noopener"> <img class="hiddenMobile" src="/images/imaging-bg.jpg" alt="" width="1380" height="500" /> <img class="hiddenDesktop" src="/images/imaging-bg-mobile.jpg" alt="" width="980" height="980" /> </a>
+<div class="imaging-content"><a href="https://imaginator.tatamotors.com/altroz/#/build/stylekit-listing?variant=XM&amp;utm_source=HOMEPAGE&amp;utm_medium=traffic&amp;utm_campaign=Build_Book" target="_blank" rel="noopener"><span>YOU <br />IMAGINE,<br />WE CREATE.</span></a></div>
+</div>
+</div>
+</div>
+</section>
+<section id="social" class="bg-grey section-padding section-padding-b0 footer-social">
+<div class="max_width">
+<div class="clear">
+<div class="width33">
+<div class="title">
+<h2>Tata Motors on Social</h2>
+</div>
+</div>
+</div>
+<div class="clear">
+<div class="grid_section">
+<div class="flex margin_bottom footer-social-scroll">
+<article class="grids lightGrid width33 shadow paddingAll margin_right facebook"><img class="icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAgVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9d3yJTAAAAKnRSTlMAjEVigPPUvGruTUHBmYlmRif76uHNtqE4LQnlxq2chHVVGBURyaOReXgxS4GRAAABI0lEQVRo3u3ZyW6DMBSFYScYYhsIcyBkbtLpvv8DdlOJVs4m9Pqore6/9eKTFx5kq5ndBvPy3NrY2qZNuuyQa3PZKtaWG7pTwiiMZ0sUGEl3RKGRnCg4sqHwyIrCIz2FRwyFR55iAHKg8MiWAEgPQMYGgFwIgCwQyJ7u1XTZ6rPk+PNFUpNfVyrWHPkZxVzhG1px9+4ZdmRHtIfkir21h0T8iL9MHAIpEchSEEEEEYR3F045Lozrk54yew/pjf7aazUDiejBUgSCmEl9BSA7BUAyBHJEIG8IxCGQAYFUAKS+ApBWAZAMgeQI5IxAHAIZZiGVKaKp0n+yW7hpuChuv/eM/7dXIkEEEUQQQQQRRBBBBBFEEEEEEeTv/JieKP7eA88eH8j2jMsId0EtAAAAAElFTkSuQmCC" alt="" title="" width="100" height="100" />
+<div class="grid_content design-content">
+<h4><a href="https://www.facebook.com/officialtatamotorscars/" target="_blank" rel="noopener">Facebook <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a></h4>
+<div class="section-slider owl-carousel">
+<div class="item">
+<p><a href="https://www.facebook.com/officialtatamotorscars/" target="_blank" rel="noopener">The road is ready. The players have buckled up and are raring to switch their game to higher mode.<br />This #Dream11IPL, witness the 8 teams rev up to set the perfect standard. #TheGoldStandard. ‬With ALTROZ.‬‪#AltrozT20‬ IPL - Indian Premier League<br /><small></small></a></p>
+</div>
+<div class="item">
+<p><a href="https://www.facebook.com/officialtatamotorscars/" target="_blank" rel="noopener">5-Star Entertainment with 5-Star Safety! Make your drives entertaining with the Best-In-Class Infotainment System of ALTROZ. #TheGoldStandard. To book a test drive today, visit https://bit.ly/3cO5O9k #AltrozT20 #Dream11IPL<br /><small></small></a></p>
+</div>
+<div class="item">
+<p><a href="https://www.facebook.com/officialtatamotorscars/" target="_blank" rel="noopener">Today we flaunt orange, which is a symbol of tranquility. What are you wearing today? Share your images featuring the colour Orange and stand a chance to be featured on our page. #HappyNavratri #Navratri2020 #NewForever<small></small></a></p>
+</div>
+</div>
+</div>
+</article>
+<article class="grids lightGrid width33 shadow paddingAll margin_right instagram"><img class="icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAq1BMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Nr6iZAAAAOHRSTlMA870MDt1Wf+GuB8HwlV0T9+zYz8u057iHQjYeg1Ej+9N1MCgXo3ptRjk0K8annmhMPAMlmYtiGhJYAV8AAATNSURBVGjevZrpeqowEEAHWVRQBFTEHZfW3bpUm/d/snsvmTTYgiGA9/xRqB/HTJaZxEISw/6s3vEbihQNv90dnRaQicmqTQrgVedCxalOCmPZTxUDVBSlM053NElp1L9SmhGSOI4iiUPiuEaSwyCc3sfmutRUKbTWZHA/KPwho9+OD8Jo20PITetkEUYz1dE+QUE2vRTLmCBVKAFDSXraAm/qZyiFIYtZrPcvNRzeLSgLNuF4935id1ygPA74zB/B8jUoxOTW1WuV5gYvrceAVejlrpijOiWUIw2ISnvfVaOrM4l4L+Z4QwUPUZ9eraILOqy9Yo4RidGLd74Pf1mSiHWx/iAPnCD25DMArOgMKaUhNY++duMhrAOAh4OgEJ3oIW8XeI/eNMx4+zT4om/UQg5TweizHsYUTCf5BsdABQqhOjh2WIgGOKzpuMX2fWT9ysNBv7+Z/Gq3x0brOmqTo8VzVA/H2RbEXGc9zyU05roVDBIS997CV6DMo6sQaP0zERkWo5D8QP/kX21DOLHAmI1ozIH/72UqWH7nB5LIvs9X3Ri1x1HnQuRStKcp9UkV09vhd/b4PYfHpRIFFxShxG6kO/iap3YJ0qZeLlHEkodm6L3D8fjWDR8ag7G+95x/EUSpjETdE4bStHeATIygRhg+u93q94cA0pKWThBvtYQHTNv61m+AIy1RmUNJnK0nnWnmBSQdVtkuIZEL6zBFzS1piosxm82YfBJeHdtPdxuEcssnuTgCB2WLlkUuyTFj4XrC4ZdHMsSpljn3GjkkuEyYYglmE11egmn5LjTwyu0sLQlw0RbCW21JS2oSaRlH2NSUk2C3TzWpksiWlLyz/ZgYvhvsSkoqciXfHMeXnMRjs1gM70JHlZKYLn4zue3bQEoyTI6xKEnbUpINLaAzO3BazWQkWCEfZfcO1ddKqjkk5/8RritN7S/teNwfh7JnA2cpCeh4aJGVEOt2KQktHMdZHVdMDHKSAA/fMnLHhCIlwRXPvYBM1ppJSsDFeElEi7QkJXg81REL+IfbICvZkYi+xKGHIS3BHaufRWLRDgR5CZafx6xDi6xySPjRm4AF7u0hj2RJKAPBcbOPZ1nyEqxYxMcVWg33SSAvwY8IIzZHh2/mlZgNwVaLn77v8u8ZdwqhdE6Ju6wuc4whvwS2U4Ic1r/+diMMA4pIYOsShrUaxNp4rxPC21FMAkuLcPT6Z1CtBs16SDi1LWSTqKIaIZ03DUSSLEdRm326ojYGEEka9FDNERyqGZ1khb4yM+xbXAizVQz9buOnYbq3QYRPU38XD2CEaHbd+xY5em/1lTVjehDI7HbUgTGrVmf2uQWZGGN9ccLl7SXMoocHMOEb1/JpYwq/+JgNXsDXdxHzjmXJC7jRLuGlxq58hxlb2drfvpc0xDFxnKGwXPAsK2B7dqz7y0Wnj13yvVv5fY8HfzO+Vgq27QV+SuOlk4MptnRHvGhb463KsiTHZ1KZU8WbbikzfxGyrJnyA8ZhUVSxvBGkkv4zyXFeqBWBk+bAiCH6yJibII25GM8wT6eeZ9gKieG2K5J0sLx/XtpeLVIaYfoIsvVyFM7707CuStC4I2Hxsz44RQzTnqFlGuibWbetu7L/DufWwkqwTiqU/gDN/0ZXyFhGcwAAAABJRU5ErkJggg==" alt="" title="" width="100" height="100" />
+<div class="grid_content design-content">
+<h4><a href="https://www.instagram.com/tatamotorscars/" target="_blank" rel="noopener">INSTAGRAM <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a></h4>
+<div class="section-slider owl-carousel">
+<div class="item">
+<p><a href="https://www.instagram.com/tatamotorscars/" target="_blank" rel="noopener">Today we flaunt orange, which is a symbol of tranquility. What are you wearing today? Share your images featuring the colour Orange and stand a chance to be featured on our page. #HappyNavratri #Navratri2020 #NewForever<br /><small></small></a></p>
+</div>
+<div class="item">
+<p><a href="https://www.instagram.com/tatamotorscars/" target="_blank" rel="noopener">We are excited as Day 1 of Navratri begins! We are flaunting grey, are you? Share your images with your grey gear for a chance to be featured on our page. #HappyNavratri #Navratri2020 #NewForever<br /><small></small></a></p>
+</div>
+<div class="item">
+<p><a href="https://www.instagram.com/tatamotorscars/" target="_blank" rel="noopener">When you’re in search of #UnlimitedFun, the All New Tiago from Tata Motors is where you will find it! Check out the #NewForever range of cars from Tata Motors.<br /><small></small></a></p>
+</div>
+</div>
+</div>
+</article>
+<article class="grids lightGrid width33 shadow paddingAll twitter"><img class="icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAgVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9d3yJTAAAAKnRSTlMAPyAT48ua88Tt1bE5BqGIcyb52ZOOZ6iBe0QN0G0wWkoauWE13Sy+rFFKI60UAAACzElEQVRo3u3YyZaqMBAG4GII86iIiOJsq//7P+Btu+2DbVASEhd9j9/GhUqRSlEkobe3t//Fclc5iZOdN/QicRke8IM5RudvSMl8YuM3b0d3rFNEKhofPM/4FaLy/bhN7JkkWR66VfTjwxkBdfsXDx+S0+3ikS1dmOUCn4Kb2wJ8iyTs8YRnRmmAbzfZqwDYElFMCJpQi32NTDhKbEMMo9YGX4I5iZlCjH17wQbfDjmJiCBm/J2arKKLAleuQQIEk3WiT/UkwJoukvabFfWqIcIvKZ8lQXvJEK2U+iwg4lBcB1wQHwTeRqF8eVPqCgL3ecpKyPAelmT47InZDotBDu64GT00hriQWhk44zV1i30IS+hGjg5Hg7pYI4iaiVSltyNeDkH+/U1O0C2Y5YODLCRqPymtYemy6Z6Hx9yk2Q+YeDuWfYzHYbq+dgI2eCRUoF9wDJ20DEQbfX//VseI9wHNtl0LyRp6JXfLTae+fJyhVUW/uWBNRDTfQqOmq3vb01XmQ58Vv8TRj29d+o3uF3Fr6HfU/yTyKi5IAu1W/TsBdSZxGC7+WueaUYcCehm9yyl1dv8SV51D3aIXZItnuNAloIfyAJpkxNHfKef0TBRCgxP1WGbMH0HNhh7Lreu5i2IFhPREOlowtrCViyzv3XKqm/YfZ6iziF4+lIp6zF7QGnnsJV2L33aqScTO/ZS4MYmIRvqTxcvHKm92UbEzfN8jIfIwxJjkGKcBk26RLHNdMPcgUwVLGqZ0dRcWL4O4mgaJArx6HGYiM+cRDZBPIIGZJM9wJF+F0paNp7OX8Mydw2Qf80gkNZNdHUX1uUydcAFpaSx08xMMx4Qr1xoaxi5JwqaAPD+LZWc8dSVH0cxJnlUGEOataah9IVJeI29mkpJlevSfH91mG9IgXqch64h08KbZnnSaL1fNLC0cJ0mcIq2yXW3S29vbn/cP8lgWGFNNZ/YAAAAASUVORK5CYII=" alt="" title="" width="100" height="100" />
+<div class="grid_content design-content">
+<h4><a href="https://twitter.com/TataMotors_Cars/" target="_blank" rel="noopener">Twitter <img src="/images/arrow-white.png" alt="" title="" width="23" height="18" /></a></h4>
+<div class="section-slider owl-carousel">
+<div class="item">
+<p><a target="_blank" rel="noopener">5-Star Entertainment with 5-Star Safety! Make your drives entertaining with the Best-In-Class Infotainment System of ALTROZ. #TheGoldStandard. To book a test drive today, visit https://bit.ly/3cO5O9k #AltrozT20 #Dream11IPL</a> <br /><small></small></p>
+</div>
+<div class="item">
+<p><a target="_blank" rel="noopener">White represents peace – like you experience while driving the 5-star safe ALTROZ. And, it’s what we are flaunting on Day 3 of Navratri. What about you? Share your images featuring colour White for the chance to be featured on our page. #HappyNavratri #Navratri2020 #NewForever</a> <br /><small></small></p>
+</div>
+<div class="item">
+<p><a target="_blank" rel="noopener">5-Star Technology with 5-Star Safety! Never let bad light stop your game, on or off-the-field with Automatic Headlamps of ALTROZ - #TheGoldStandard. To book a test drive today, visit https://bit.ly/3cO5O9k<br /><small></small></a></p>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- <div class="loginPopup autopopup">
+<div class="modal-content auto-popup-div clear"><span class="closeLogin"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAmCAMAAABwIXKiAAAAtFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////oK74hAAAAO3RSTlMA+QVJAgzbUfUQzsSK7dJ2MRTxm4dMQBjJuzMjCerm4rCXoD2/uKWDbWhcLCcfqXtxHNZ+RDjfkWCzVnQUve0AAAKZSURBVDjLdZTZmqIwEIUJyL6q7DSCQCuguNvanfd/r6kQzDQjUxd8Ifyp7VTgxnb2bNc1DPfalCr3P5slfvP4rnSw6OC28XyS4ufCUsK/TLedKZ/O0kQYTMkkadWvkHQM3mI2+gI+aY+ncI/jUj4VGbymeTnG5lcIifKT3/F0Q9wLrgZkJP/Ggis4u7jO6OyHvEkhgsezHfFkYmS1bymrWwhulQyUNcBu3ITZKWSzex3LEf4SPiYw8AgNOFGHfJ3iFNaTlmwwDn261BA6qPRIpzIFBzXKDGGDJ2W1Cr780Hq8xymhtd6Nq0MjuyaudsRdgfCSHt5ZeFj6sFpTAWIJZzXwPrSznlFuhfGiAPCmgXCboWk5RoXKOY2CJWFQxTYBXO6FCkP2HkftmOLQ4QSoPH8JIR5XQBxCorQ8G5SXLeLIMyCThA3XFUAwxfLYhNxDLHmcDJwR/BXVVgin+TzjdjqWZMYxDU3CRXOOcfvqxT06titEiHCrdcc4p/fnudCBHcN0gC4pPJb7FydoJL/SRiDgkJwPlSKt3a4ImAxc/QWzxXXyFzbbQXQdgsKA8UcS3B1asFZw3nG8Axlt6VZsQqVkwAICHmjJQYgXLixVCFzd6ZYb5nL/9WzrUTvrc3mu4GwvdIZNg6Og4Lz6eCvFfrGHXAq1FwsSsHxu2kQbmvSkicYaRtF5NoXxPxnIeh5etiZMSTDF+RWGq/NycS76cRoRTB2lEdl7/A39PQjimEoaUMfckiIYGJEfgh0HPCsgEZYK1GCMD+83ZE4sw+tUEWy+a4sUYmT2P/d1Nq8lAJXU+izW64MumQoZL098v/o344KJIYToTH/WzuTtD+TjJswWC0VZmFK1rO9vFAvu25tPYvm6cUY/nD8DzlrOsZQFWQAAAABJRU5ErkJggg==" alt="" title="" width="39" height="38" /> </span>
+<div><span class="hiddenMobile"><img src="/images/autopopup.jpg" alt="Tata Motors Covid-19 Message" title="Tata Motors Safety First Message" width="1100" height="500" /></span> <span class="hiddenDesktop"><img src="/images/autopopup-mobile.jpeg" alt="Tata Motors Covid-19 Message" title="Tata Motors Safety First Message" width="100%" height="400" /></span></div>
+</div>
+</div> -->
+<style>
+         .slider_img{
+              position: relative;
+         }
+        .pause-audio {
+          position: absolute;
+            z-index: 9999;
+            top: 80px;
+            left: 20px;
+            cursor: pointer;
+            width: 30px;
+            height: 30px;
+        }
+    </style>
+<!--<link href="/css/transparent-header.css" rel="stylesheet">-->
+<script type="text/javascript">
+
+$(".iframe_banner-home").on("click", function () {
+            $(".iframe_banner-home").html(
+                "<iframe src='https://www.youtube.com/embed/neKHpvzcVkM?autoplay=1;rel=0&amp;controls=0&amp;showinfo=0&loop=1&playlist=neKHpvzcVkM' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>"
+            );
+            $(".iframe_banner-video img").hide();
+        });
+
+//if (window.matchMedia("(min-width: 767px)").matches) {
+    $(window).load(function () {
+        $(".autopopup").css("display", "block");
+    });
+    $(".closeLogin").click(function () {
+        $(".autopopup").css("display", "none");
+    });
+//}
+</script>
+
+<script>
+    $(document).ready(function () {
+        // $('.main-slider').slick({
+        //     slidesToShow: 1,
+        //     slidesToScroll: 1,
+        //     arrows: false,
+        //     dots: true,
+        //     infinite: false,
+        //     speed: 1000,
+        //     autoplay: true,
+        //     autoplaySpeed: 5000,
+        // });
+
+    var homeBannerSlider =  $('.main_slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        pauseOnHover:false,
+        arrows: false,
+        dots: true,
+        lazyLoad: 'ondemand',
+        responsive: [
+            {
+               breakpoint: 767,
+               settings: {
+                    arrows: false,
+                    infinite: true,
+                    autoplay: true,
+                    autoplaySpeed: 5000,
+               }
+            }
+         ]
+    });
+
+homeBannerSlider.on('afterChange', function(event, slick, currentSlide, nextSlide){
+    myAudio.pause();
+    $(".pause-audio").html('<img src="/images/ipl/mute.png" width="" height="" alt="" />');
+});
+    });
+</script>
+
+<script>
+    // $(document).ready(function () {
+    //     $(window).scrollTop(0);
+    //     PlayAudio()
+    // });
+    function PlayAudio() {
+        var promise = document.querySelector('audio').play();
+
+        if (promise !== undefined) {
+            promise.then(_ => {
+                // Autoplay started!
+                //alert("autoplay")
+                console.log("played")
+                $(".pause-audio").html('<img src="/images/ipl/unmute.png" width="" height="" alt="" />');
+            }).catch(error => {
+                //alert("autoplay prevented");
+                console.log("prevented");
+                window.setTimeout(function () {
+                    PlayAudio();
+                }, 2000)
+
+                // Autoplay was prevented.
+                // Show a "Play" button so that user can start playback.
+            });
+        }
+    }
+
+    var myAudio = document.getElementById("myAudio");
+    //myAudio.play();
+    var isPlaying = false;
+
+    // function togglePlay() {
+    //     if (isPlaying) {
+    //         myAudio.pause()
+    //         $(".pause-audio").html('<img src="/images/ipl/mute.png" width="" height="" alt="" />');
+    //     } else {
+    //         myAudio.play();
+    //         $(".pause-audio").html('<img src="/images/ipl/unmute.png" width="" height="" alt="" />');
+    //     }
+    // };
+
+    $(document).ready(function () {
+        $("#video-audio").click(function () {
+            if (isPlaying) {
+                myAudio.pause()
+                $(".pause-audio").html('<img src="/images/ipl/mute.png" width="" height="" alt="" />');
+            } else {
+                myAudio.play();
+                $(".pause-audio").html('<img src="/images/ipl/unmute.png" width="" height="" alt="" />');
+            }
+        });        
+    });
+    
+    myAudio.onplaying = function () {
+        isPlaying = true;
+    };
+    myAudio.onpause = function () {
+        isPlaying = false;
+    };
+
+    $(".main_slider .slick-dots button").click(function(){
+        myAudio.pause();
+        $(".pause-audio").html('<img src="/images/ipl/mute.png" width="" height="" alt="" />');
+    });
+
+    // if (window.matchMedia("(min-width: 1025px)").matches) {
+    //     var rellax = new Rellax('.rellax');
+    // }      
+
+   
+</script>
+
+    <div class="alert">
+        <div class="alert_div subscribe">
+            <span class="closeForm">✖</span>
+            <div id="subscribeForm">
+                <p>Sign up for the Tata Motors newsletter to get the latest updates and news.</p>
+                <div class="input-container">
+                    <input id="subEmailID" name="NameTD" class="floatlabel" type="text">
+                    <label for="subEmailID">Enter Email ID</label>
+                    <span class="error" style="display: none;">Please enter valid email ID</span>
+                </div>
+                <div class="btn_popup">
+                    <button onclick=EmailSubscription(event)>Subscribe Now!</button>
+                </div>
+            </div>
+            <div id="thankYouForSubscribe" style="display:none;">
+                <h5>Thank You</h5>
+                <p>Your email is successfully submitted.<br />Check your inbox for future updates.</p>
+            </div>
+        </div>
+    </div>
+    <div class="loginPopup showLogin">
+        <div id="chatModal1" class="modal-content">
+            <span class="closeLogin">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAmCAYAAABH/4KQAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NTA1QkQ3NjU1MTUxMTFFQTlFQUFBOTRDODA5RUQxQTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NTA1QkQ3NjY1MTUxMTFFQTlFQUFBOTRDODA5RUQxQTMiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1MDVCRDc2MzUxNTExMUVBOUVBQUE5NEM4MDlFRDFBMyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1MDVCRDc2NDUxNTExMUVBOUVBQUE5NEM4MDlFRDFBMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PjQlDssAAAR2SURBVHjazJh5aM9hHMf3w7aYzYZhJFnue3NLyR8iUvKHkn+oOSNnmVxZrhXFHImk5ShJREjKkXMmRO7bnHPusBmzr/dnvb/69PT7XvObPPVa+/6e7/d5Ps/zOZ8nZFlW1P/a6smfUCgU5JsY0AEMBun8vxVoJEOBEvAaPALXwSVwB1T4neDPhgXYubpgDDgGPoNvnLBShjGoZJ+8UwROgwkg1q9w1XL5FG4EOAM+gZ9hhPlFgZ36Rdgv4CIY61e4UPUfZ7UmgIVgImgB6vB3megUuAoeg3eglILEgeagLegHhvE5iv2F4ABYCd7XVK1twH5QrHbgLVgG0mhncbQzs8lvDUAK6AYWgGdqHFH3EdC9JmqVVR80VLQbDOJuBm2yiN5gO6hSpnACdA0inHjdPmXoosIloHUEooOYxlyagS3gIdDSr3Cr1I6Jgc/nyiPVJBRNY7ixnWWzH+GGG6taTtuJdIvlDpZwrq9gvJtwsqKzyiZEtU1qMQEkcMdsm5aAHe8k3Ci1klcMA7XdxJOfcs5yMCmccNHgpLK1paChy6AN6WVJPt5x824xmdnKjPJBfVO4riqeiXf2cBlQtn4GTSCLscxsYg6ZzCqZHubRERRw7jLJ2aZw09lhMfCmeKjiirKVraCp6k8Eq1X/SzDQZTz5dotS7TJbODsdpTOxR7GKKHIZ7DVNoIzP0xkHE7mrc8Ai9n0Hh8Fzl/FEY3mquEg389g5FXRHO6QkU23b1G4L2WCxehbB9qq86tYG0+YkUtw01fpEGWW/AKEgh6owq5DvTHeNfY7VnkVAtRmYwhWqjNAlYKzKDiPcDqrZb5Mi4x6//WDaXEiVNEHq9l+0GbOVUEVBmuVUO9nljMS5PgEqjRWG3VnK63ICVDDtwBt+W2Cq9QJ3QR5G+nAImXStyii2Kter5zKmpyQfwg3k/MItU7hdrPnlYaZEaY8gvNAoQnPpwWJnG9TvpYx5TV3Gi+b5wtbcUVO4WUo9e1h3uQXhPKMITTGCao7qL2CR6haWNigvzzKF66lU9NHDYxOZkh6CTQ5FqMS2NeABvdkt1qWqUCbCDTWFizEC8XyPOk7i1wCPHZYd6Q+SPeq6KSrG3paCIVzJNE6pVry31z8omeRAflft2iynek6c4LIqNnf69LSaNnGsdco2b9sZxalMH0Obs1eywO8pPWCTBD+V5ZlFe8/wc8DZqGzvFQ8jsREWbAIP47at5dr3Nl7CtWCZY6v3HavV5AgI1pgOoA/YJ5khfB+qpRI+rrJGBWNXWg1PY7E83WfztG9x8afp0YEvcjrzykDnTrnWmsc4mMwQ5Bb5JSB3omncUuNU8K6l799c5KTwbkRuhpqp35/zKiGfpye5Q/nBiaP5bionH85zgt0+8dvl/Pav7+fkwHuNh9+qMFWIFIr3WZO9CdNvsfS/CSar26qI3M/ZcTCDh5tiqvuHg7BVTOLlfPcGnSo+yOWhl1qdzppyYzSEDpJKL2ygDjVykfiCQp3ngkqDXruG/ucL698CDAD+caABS95VqwAAAABJRU5ErkJggg=="
+                     alt="" title="" width="39" height="38" />
+            </span>
+            <div class="clear">
+                <div class="">
+                    <div id="divFormModal1">
+                        <div id="popupForm1" class="main_popup" style="display: block;">
+                            <form id='demo-form-otp1' action="?" method="POST">
+                                <input type="hidden" id="hflocation1" name="City" />
+                                <h5 class="paddingRight">Sign up for the Tata Motors newsletter to get the latest updates and news.</h5>
+                                <div class="form_popup">
+                                    <div id="divFinal1" class="detailsForm" style="display: block;">
+                                        <div class="input-container">
+                                            <input id="Name1" name="Name" class="floatlabel" maxlength="100" type="text"
+                                                   onkeypress="return onlyAlphabets(event,this);">
+                                            <label for="Name1">Name*</label>
+                                            <span id="lblName1" class="error" style="display: none;">
+                                                Please enter valid name
+                                            </span>
+                                        </div>
+                                        <div class="input-container">
+                                            <input id="Email1" name="Email" type="email" class="floatlabel" type="text"
+                                                   maxlength="100">
+                                            <label for="Email1">Email*</label>
+                                            <span id="lblEmail1" class="error" style="display: none;">
+                                                Please enter valid email
+                                            </span>
+                                        </div>
+                                        <div class="input-container">
+                                            <input id="Mobile1" maxlength="10" name="Mobile" class="floatlabel"
+                                                   type="text">
+                                            <label for="Mobile1">Confirm your Mobile Number*</label>
+                                            <span id="lblMobile1" class="error" style="display: none;">
+                                                Please enter valid Mobile number
+                                            </span>
+                                        </div>
+                                        <div id="divOtp1" class="btn_popup">
+                                            <button id="btnSubscriptionSubmit" class="disabled subscriptionBtn" style="margin-bottom: 10px;" onclick="Subscription_Modal(event)">Submit</button>
+                                        </div>
+
+                                        <div>
+
+                                        </div>
+                                        <div>
+                                            <span id="lblError1" class="error-msg"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div id="divSuccess1" class="alert alert-success" style="display:none;">
+                            <h5>Your request has been received.We will contact you shortly.</h5>
+                            <a class="closeLogin" href="javascript:;">Continue Browsing</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="loginPopup showLogin" id="subscription2">
+        <div id="chatModal2" class="modal-content">
+            <span class="closeLogin">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAmCAMAAABwIXKiAAAAtFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////oK74hAAAAO3RSTlMA+QVJAgzbUfUQzsSK7dJ2MRTxm4dMQBjJuzMjCerm4rCXoD2/uKWDbWhcLCcfqXtxHNZ+RDjfkWCzVnQUve0AAAKZSURBVDjLdZTZmqIwEIUJyL6q7DSCQCuguNvanfd/r6kQzDQjUxd8Ifyp7VTgxnb2bNc1DPfalCr3P5slfvP4rnSw6OC28XyS4ufCUsK/TLedKZ/O0kQYTMkkadWvkHQM3mI2+gI+aY+ncI/jUj4VGbymeTnG5lcIifKT3/F0Q9wLrgZkJP/Ggis4u7jO6OyHvEkhgsezHfFkYmS1bymrWwhulQyUNcBu3ITZKWSzex3LEf4SPiYw8AgNOFGHfJ3iFNaTlmwwDn261BA6qPRIpzIFBzXKDGGDJ2W1Cr780Hq8xymhtd6Nq0MjuyaudsRdgfCSHt5ZeFj6sFpTAWIJZzXwPrSznlFuhfGiAPCmgXCboWk5RoXKOY2CJWFQxTYBXO6FCkP2HkftmOLQ4QSoPH8JIR5XQBxCorQ8G5SXLeLIMyCThA3XFUAwxfLYhNxDLHmcDJwR/BXVVgin+TzjdjqWZMYxDU3CRXOOcfvqxT06titEiHCrdcc4p/fnudCBHcN0gC4pPJb7FydoJL/SRiDgkJwPlSKt3a4ImAxc/QWzxXXyFzbbQXQdgsKA8UcS3B1asFZw3nG8Axlt6VZsQqVkwAICHmjJQYgXLixVCFzd6ZYb5nL/9WzrUTvrc3mu4GwvdIZNg6Og4Lz6eCvFfrGHXAq1FwsSsHxu2kQbmvSkicYaRtF5NoXxPxnIeh5etiZMSTDF+RWGq/NycS76cRoRTB2lEdl7/A39PQjimEoaUMfckiIYGJEfgh0HPCsgEZYK1GCMD+83ZE4sw+tUEWy+a4sUYmT2P/d1Nq8lAJXU+izW64MumQoZL098v/o344KJIYToTH/WzuTtD+TjJswWC0VZmFK1rO9vFAvu25tPYvm6cUY/nD8DzlrOsZQFWQAAAABJRU5ErkJggg==" alt="" title="" width="39" height="38" onclick="Subscription2DataLayer_Cancel()"/>
+            </span>
+            <div class="clear">
+                <div class="">
+                    <div id="divFormModal2">
+                        <div id="popupForm2" class="main_popup" style="display: block;">
+                            <form id='demo-form-otp2' action="?" method="POST">
+                                <input type="hidden" id="hflocation2" name="City" />
+                                <h5 class="paddingRight">Request a Call Back.</h5>
+                                <div class="form_popup">
+                                    <div id="divFinal2" class="detailsForm" style="display: block;">
+                                        <div class="input-container">
+                                            <input id="Name2" name="Name2" class="floatlabel" maxlength="100" type="text"
+                                                   onkeypress="return onlyAlphabets(event,this);">
+                                            <label for="Name2">Name*</label>
+                                            <span id="lblName2" class="error" style="display: none;">
+                                                Please enter valid name
+                                            </span>
+                                        </div>
+                                        <div class="input-container">
+                                            <input id="Email2" name="Email2" type="email" class="floatlabel"
+                                                   maxlength="100">
+                                            <label for="Email2">Email*</label>
+                                            <span id="lblEmail2" class="error" style="display: none;">
+                                                Please enter valid email
+                                            </span>
+                                        </div>
+                                        <div class="input-container">
+                                            <select id="Model2" name="Model2" class="floatlabel">
+                                                <option selected="selected" value="0">Select Car Model</option>
+                                                <option value="Tiago">Tiago</option>
+                                                <option value="Altroz">Altroz</option>
+                                                <option value="Tigor">Tigor</option>
+                                                <option value="Nexon">Nexon</option>
+                                                <option value="Harrier">Harrier</option>
+                                            </select>
+                                            <!-- <label for="Model2">Model*</label> -->
+                                            <span id="lblModel2" class="error" style="display: none;">
+                                                Please select model
+                                            </span>
+                                        </div>
+                                        <div class="input-container">
+                                            <input id="Mobile2" maxlength="10" name="Mobile2" class="floatlabel"
+                                                   type="text">
+                                            <label for="Mobile2">Confirm your Mobile Number*</label>
+                                            <span id="lblMobile2" class="error" style="display: none;">
+                                                Please enter valid Mobile number
+                                            </span>
+                                        </div>
+                                        <br>
+                                        <div id="divOtp2" class="btn_popup">
+                                            <button id="btnSubscriptionSubmit2" class="disabled subscriptionBtn" style="margin-bottom: 10px;" onclick="Subscription_Modal2(event)">Submit</button>
+                                        </div>
+
+                                        <div>
+
+                                        </div>
+                                        <div>
+                                            <span id="lblError2" class="error-msg"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div id="divSuccess2" class="alert alert-success" style="display:none;">
+                            <h5>Your request has been received.We will contact you shortly.</h5>
+                            <a class="closeLogin" href="javascript:;">Continue Browsing</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <footer>
+        <div class="top_footer">
+            <div class="max_width">
+                <div class="flex">
+                    <div class="call_assistance">
+                        <p>Call <a href="tel:1800 209 8282">1800 209 8282</a> or Connect on WhatsApp <a href="https://wa.me/912267927319" target="_blank" rel="noopener">+91 22 6792 7319</a> for any assistance<br>*WhatsApp assistance available between 9AM - 9PM</p>
+                    </div>
+                    <div class="tnc">
+                        <a href="/terms-of-use">Terms & Conditions</a> | <a href="/privacy-policy">Privacy Policy</a>
+                    </div>
+                    <div class="social">
+                        <a href="https://www.facebook.com/officialtatamotorscars/" target="_blank">
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAAAAAAeW/F+AAABK0lEQVQokb3SIYiEQBQGYIsgx4YrkyzCwsEGi4jNZNi4ZTm2mDduMmzdsH3hkvHapQXBIAh7IJYLJtMlYZAJgwzzGAYxnVeuOBrv1Y83b94/o2n/VoYV7MMwPDi6Up3zA8Mg6fVJoSv7UmPKgLObis1TARJo2zQXQ8H2HYMgVf4R71Wz3aKDvjr6rm2qbuaVDPpsrV5K17xPykViabriaAM9b8uOQ+YjhFYTXh+jt2/Gobqdo8if9O9qOq4MwCgl5DpZ7EAGKQSAlHLo40ksu7ol3W93izGehurGSYEZyCZPk/fXyWzkB6eKgijDYOtbqs2dB+WQKBP74/Rljt2RRbpZYIAlHkNNFlks8PjeC7O9Lw4yn+eiYwvdTkZod98o//hYOjJNE82pqn4A472g3EFsbQkAAAAASUVORK5CYII="
+                                 alt="" title="" width="30" height="30" target="_blank">
+                        </a>
+                        <a href="https://twitter.com/TataMotors_Cars/" target="_blank">
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAAAAAAeW/F+AAABrElEQVQokc2SIajCQBjHFw4GSwuGC0sG08BmsJnEIBgsBoNgMJjkwSuCYSAMYcVkeEFYeSaLQYO8YhAEQRgIY8gD4RAOjuO45bfdblMfppfeHxbuft/3/b/79inKv5KWg1AHigLAS1oejEctQ1EgFGdgFEu5jMLOx+50XA1b9U5VXKg1a1rTJM019phQSi6H9WaYVOttz3PJQWOFWMg4I/gaOBLvsO+2TT0+vF8JEwqJZyXF65+IoYNTNXRNd8KEMn5bNKVf90Tozf9y7X5nKSmjQR/KpzS2V8pCis67jUeoxF7SuAKKb5sgdqQkkqQMHyoJViszH9OoW8Z55MyZiEDbcppt+SI5jhBfLH9mylGoZVdwRillIjeK3HdhOki95gY4NaUigC9NNRu0bvkZFiLftpZRAKeIJFmJOceLxsPv1Ouzw+VG0oExfLw7i3xztPEJlwbkOCn8WoKCdcKcCk7Ok/y9L8WotAdDe32Ji/MwvG5HpcfCpcHSQ/GbozXAKFj2jCfffMv1os4jiC77ea8En3dQM5vv9sRxnMl42K08tSwLADUReL29f9QP6/5AhZlh6+gAAAAASUVORK5CYII="
+                                 alt="" title="" width="30" height="30" target="_blank">
+                        </a>
+                        <a href="https://instagram.com/tatamotorsgroup" target="_blank">
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAAAAAAeW/F+AAAB/klEQVQokbWSLajqUBzAh3DCgrBkMBmEFWFBLAsLFqtBUCyC3CA3iGHFIAiCgsFieMkiGOQG4RYfCEsDwxjiYGUMxjjI4HAYY0fM9+zDr/fgtfdjGzv8zv9j/zOG+d/kqo1m44VWu91qVHOJzHBNxblA6FIgxYU+IdhV6olnm18OeiMISYidbTPW2ZHpX6+EEPqIrhD+Xm92BjYniZ5awTWB0F0hPtayXHGB4TzRExpNY2lcpMllL9CGhtiZP5JHmSPCICBIqdCGxtieJXoc1Y7q+sixbA8bnUJRWiF7+qZvV33RbXSXOtb2e8VG5viuMUY4wOeJABi2PDP8G/EDfNcTC1u649tDHtAlKA0t4pk2ttIPm9no1+CIz1UQr4F0Qkf5WXvuoI/KAeul9Ah4De2FPnLSzucu+hBVXxdSXdJ8pUL1M7on7DyzxcVrrmletqXBU7uolx8acF3PsRmQr6+h1s8PXpN/AmF3877afI7v7FCw5YH8qvtM9lMLXGWz2qgwVHssO3qtPWAy/EB1PBz4nqP2ixk687doBuSl0ffZMr6HUh7QE3skX7hIjidSqHV63Vohbn+M3fkj+aomSWI5okJvUZRa23s0K2sYmsb5fKLoun46GYZhQqzJyYzF6dGO/9OE5NU+jkUm9cuD+ieHZRmkQwZc7m+4u/0HPwqHfe3nhFPhAAAAAElFTkSuQmCC"
+                                 alt="" title="" width="30" height="30" target="_blank">
+                        </a>
+                        <a href="https://www.youtube.com/user/TataMotorsGroup" target="_blank">
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAAAAAAeW/F+AAABj0lEQVQokdWSsWvCQBTGM2fLKjgGOjlIhpDRza3g5CIBcZCObv4Fbu3iIBQRXBxcnDJIB4cgCIEsAYcgHEIIcng8coSCQ3vvnbZ269KhX0jI3Y/v3XfvzjD+syrOY7vj9/r9J61+r+u3W42KSdRqjd+iZJ+yY6bFDuk+Dpe+jdRsLg75iZ8FFACFEoAQZ35i8RBx9TmRSoWkL0gJBb3FZYq4FjFZkIvzM6hfxGooP+aInWOOQynzcLkW7+gscAza7QInKtm8210lmSqv619eEXuloIVLNvHM+iBgKiSQ+4ZVMfWwmWeYdtOfxCdMeueWKlJ5XDSoDZ11Rnv4woCBr9jyRttcqpm74hitZOO6YbdHq5iJ4juai8XV2ipa0x0GjJLj9q9YcIlTMltPFymnnNgIobHDciwFkqf7A9p045R7Rk3dMuo4uSgFdljemlp9SRDdAEjNATQ2G/M043iggEdKEoLnaTig62C2xsEm3O6iKEZFcRTtwk0w69j6Mll2zXHcH3Kc+oNl/sXN/b0+Aeb3lSOXEjCAAAAAAElFTkSuQmCC"
+                                 alt="" title="" width="30" height="30" target="_blank">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bottom_footer">
+            <div class="max_width">
+                <div class="view_brands"><a href="javascript:;">View our brands</a></div>
+                <div class="footer_links clear">
+                    <a href="https://www.tatamotors.com/about-us/" target="_blank" rel="noopener" title="About Us">About Us</a>
+                    <a href="http://soul.tatamotors.com/" target="_blank" rel="noopener" title="Tata Soul">SOUL</a>
+                    <!--<a href="http://service.tatamotors.com/" target="_blank" rel="noopener" title="Tata Motors Service">Tata Motors Service</a>-->
+                    <a href="http://www.tatamotorsassured.com/" target="_blank" rel="noopener" title="Tata Motors Assured">Tata Motors Assured</a>
+                    <!--<a href="https://tmf.co.in/tmfuniverse/tatamotorfinance/index.jsp" target="_blank" rel="noopener" title="Tata Motors Finance">Tata Motors Finance</a>-->
+                    <a href="http://www.tatamotors.com/" target="_blank" rel="noopener" title="Tata Motors">Tata Motors</a>
+                    <a href="http://www.tata.com/" target="_blank" rel="noopener" title="Tata Group">Tata Group</a>
+                    <a href="https://referral.tatamotors.com" target="_blank" rel="noopener" title="Passenger Vehicles Referral Program">Passenger Vehicles Referral Program</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="loginPopup showOTPLogin">
+
+        <div class="modal-content">
+            <span class="closeLogin" onclick="timerOn = false">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAmCAMAAABwIXKiAAAAtFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////oK74hAAAAO3RSTlMA+QVJAgzbUfUQzsSK7dJ2MRTxm4dMQBjJuzMjCerm4rCXoD2/uKWDbWhcLCcfqXtxHNZ+RDjfkWCzVnQUve0AAAKZSURBVDjLdZTZmqIwEIUJyL6q7DSCQCuguNvanfd/r6kQzDQjUxd8Ifyp7VTgxnb2bNc1DPfalCr3P5slfvP4rnSw6OC28XyS4ufCUsK/TLedKZ/O0kQYTMkkadWvkHQM3mI2+gI+aY+ncI/jUj4VGbymeTnG5lcIifKT3/F0Q9wLrgZkJP/Ggis4u7jO6OyHvEkhgsezHfFkYmS1bymrWwhulQyUNcBu3ITZKWSzex3LEf4SPiYw8AgNOFGHfJ3iFNaTlmwwDn261BA6qPRIpzIFBzXKDGGDJ2W1Cr780Hq8xymhtd6Nq0MjuyaudsRdgfCSHt5ZeFj6sFpTAWIJZzXwPrSznlFuhfGiAPCmgXCboWk5RoXKOY2CJWFQxTYBXO6FCkP2HkftmOLQ4QSoPH8JIR5XQBxCorQ8G5SXLeLIMyCThA3XFUAwxfLYhNxDLHmcDJwR/BXVVgin+TzjdjqWZMYxDU3CRXOOcfvqxT06titEiHCrdcc4p/fnudCBHcN0gC4pPJb7FydoJL/SRiDgkJwPlSKt3a4ImAxc/QWzxXXyFzbbQXQdgsKA8UcS3B1asFZw3nG8Axlt6VZsQqVkwAICHmjJQYgXLixVCFzd6ZYb5nL/9WzrUTvrc3mu4GwvdIZNg6Og4Lz6eCvFfrGHXAq1FwsSsHxu2kQbmvSkicYaRtF5NoXxPxnIeh5etiZMSTDF+RWGq/NycS76cRoRTB2lEdl7/A39PQjimEoaUMfckiIYGJEfgh0HPCsgEZYK1GCMD+83ZE4sw+tUEWy+a4sUYmT2P/d1Nq8lAJXU+izW64MumQoZL098v/o344KJIYToTH/WzuTtD+TjJswWC0VZmFK1rO9vFAvu25tPYvm6cUY/nD8DzlrOsZQFWQAAAABJRU5ErkJggg==" alt="" title="" width="39" height="38" />
+            </span>
+
+            <div class="clear">
+                <div class="width60 hiddenMobile" style="display:none;">
+                    
+                </div>
+                <div class="width100">
+                    <div id="OTPpopupOption" class="main_popup">
+                        <h5>Enter OTP</h5>
+                        <a href="/cars/tigor/terms-conditions-offers" class="popup_tnc" target="_blank">*T&amp;C Apply</a>
+                    </div>
+
+                    <div id="OTPpopupForm" class="main_popup" style="display: block;">
+                        <form id='demo-form-otp'>
+                            <input type="hidden" id="hflocation" name="City" />
+                            <h5>Enter your OTP details</h5>
+
+                            <div class="form_popup">
+
+                                <div id="divFinal" class="detailsForm" style="display: block;">
+                                    <div class="input-container">
+                                        <input id="MobileotpTD" maxlength="6" name="Mobile" class="floatlabel" onkeyup="OnKeyUpValidation_OtpOnHome()" type="text">
+                                        <span id="lblMobileOTPTD" class="error" style="display:none">Please enter the valid 6 digit OTP</span>
+
+                                        <span id="lblResendOtp_OnPage" class="error"></span>
+                                        <span class="timer"></span>
+                                        <button id="ResendOTPOnPage" class="disabled resendOTPBtn" onclick="ResendOTP_OnHome('MobileTD', event)">Resend OTP</button>
+
+                                    </div>
+
+                                    <div class="btn_popup">
+                                        <button id="btnSubmit" class="disabled" style="margin-bottom: 10px;" onclick="LeadSubmission_OnPage_Home(event)">Submit</button>
+                                    </div>
+
+                                    <div class="agree-text">
+                                        I agree that by clicking on "Submit", I am explicitly soliciting a call from Tata Motors or its associates on my mobile number to assist me in purchasing Tata Vehicles.
+                                    </div>
+                                    <div>
+
+                                    </div>
+                                    <div>
+                                        <span id="lblErrorotp" class="error-msg"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+                    <div id="divSuccess" class="alert alert-success" style="display:none;">
+                        <h5>
+                            Your request has been received. We will contact you shortly.<br />
+                            <span style="font-size: 13px; padding: 15px 10px 15px 0; display: inline-block;">Disclaimer: Our Test Drive services might be interrupted in a few locations due to lockdown. Kindly connect with the nearest dealer for more information. We regret the inconvenience.</span>
+                            <a class="closeLogin" href="javascript:;">Continue Browsing</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="loginPopup CommonOTPLogin">
+
+        <div class="modal-content">
+            <span class="closeLogin closeLoginCommon" onclick="timerOn = false">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAmCAMAAABwIXKiAAAAtFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////oK74hAAAAO3RSTlMA+QVJAgzbUfUQzsSK7dJ2MRTxm4dMQBjJuzMjCerm4rCXoD2/uKWDbWhcLCcfqXtxHNZ+RDjfkWCzVnQUve0AAAKZSURBVDjLdZTZmqIwEIUJyL6q7DSCQCuguNvanfd/r6kQzDQjUxd8Ifyp7VTgxnb2bNc1DPfalCr3P5slfvP4rnSw6OC28XyS4ufCUsK/TLedKZ/O0kQYTMkkadWvkHQM3mI2+gI+aY+ncI/jUj4VGbymeTnG5lcIifKT3/F0Q9wLrgZkJP/Ggis4u7jO6OyHvEkhgsezHfFkYmS1bymrWwhulQyUNcBu3ITZKWSzex3LEf4SPiYw8AgNOFGHfJ3iFNaTlmwwDn261BA6qPRIpzIFBzXKDGGDJ2W1Cr780Hq8xymhtd6Nq0MjuyaudsRdgfCSHt5ZeFj6sFpTAWIJZzXwPrSznlFuhfGiAPCmgXCboWk5RoXKOY2CJWFQxTYBXO6FCkP2HkftmOLQ4QSoPH8JIR5XQBxCorQ8G5SXLeLIMyCThA3XFUAwxfLYhNxDLHmcDJwR/BXVVgin+TzjdjqWZMYxDU3CRXOOcfvqxT06titEiHCrdcc4p/fnudCBHcN0gC4pPJb7FydoJL/SRiDgkJwPlSKt3a4ImAxc/QWzxXXyFzbbQXQdgsKA8UcS3B1asFZw3nG8Axlt6VZsQqVkwAICHmjJQYgXLixVCFzd6ZYb5nL/9WzrUTvrc3mu4GwvdIZNg6Og4Lz6eCvFfrGHXAq1FwsSsHxu2kQbmvSkicYaRtF5NoXxPxnIeh5etiZMSTDF+RWGq/NycS76cRoRTB2lEdl7/A39PQjimEoaUMfckiIYGJEfgh0HPCsgEZYK1GCMD+83ZE4sw+tUEWy+a4sUYmT2P/d1Nq8lAJXU+izW64MumQoZL098v/o344KJIYToTH/WzuTtD+TjJswWC0VZmFK1rO9vFAvu25tPYvm6cUY/nD8DzlrOsZQFWQAAAABJRU5ErkJggg==" alt="" title="" width="39" height="38" />
+            </span>
+
+            <div class="clear">
+                <div class="width60 hiddenMobile" style="display:none;">
+                    
+                </div>
+                <div class="width100">
+                    <div id="OTPpopupOptionCommon" class="main_popup">
+                        <h5>Enter OTP</h5>
+                        <a href="/cars/tigor/terms-conditions-offers" class="popup_tnc" target="_blank">*T&amp;C Apply</a>
+                    </div>
+
+                    <div id="OTPpopupFormCommon" class="main_popup" style="display: block;">
+                        <form id='demo-form-otp-common'>
+                            <input type="hidden" id="hflocation" name="City" />
+                            <h5>Enter your OTP details</h5>
+
+                            <div class="form_popup">
+
+                                <div id="divFinal" class="detailsForm" style="display: block;">
+                                    <div class="input-container">
+                                        <input id="MobileotpTDCommon" maxlength="6" name="Mobile" class="floatlabel" onkeyup="OnKeyUpValidation_OtpOnHome_Common()" type="text">
+                                        <span id="lblMobileOTPTDCommon" class="error" style="display:none">Please enter the valid 6 digit OTP</span>
+
+                                        <span id="lblResendOtp_OnPageCommon" class="error"></span>
+                                        <span class="timer"></span>
+                                        <button id="ResendOTPOnPageCommon" class="disabled resendOTPBtn" onclick="ResendOTP_OnHome_Common('MobileTD', event)">Resend OTP</button>
+
+                                    </div>
+
+                                    <div class="btn_popup">
+                                        <button id="btnSubmitCommon" class="disabled" style="margin-bottom: 10px;" onclick="LeadSubmission_OnPage_Common(event)">Submit</button>
+                                    </div>
+
+                                    <div class="agree-text">
+                                        I agree that by clicking on "Submit", I am explicitly soliciting a call from Tata Motors or its associates on my mobile number to assist me in purchasing Tata Vehicles.
+                                    </div>
+                                    <div>
+
+                                    </div>
+                                    <div>
+                                        <span id="lblErrorotpCommon" class="error-msg"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+                    <div class="alert alert-success commonsuccess" style="display:none;">
+                        <h5>Your request has been received. We will contact you shortly.<br /><a class="closeLogin closeLoginCommon" href="javascript:;">Continue Browsing</a></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_cQcq4QkOBXc9QH0cyh3ygBGvU_GBY5g&libraries=places&sensor=false"></script>
+    <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+    <script type="text/javascript" src="/scripts/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/scripts/lazyload.js" defer></script>
+    <script type="text/javascript" src="/scripts/home.js"></script>
+    <script type="text/javascript" src="/scripts/homev2.js"></script>
+    <script type="text/javascript" src="/scripts/read-more.js"></script>
+    <script type="text/javascript" src="/scripts/Lead.js" defer></script>
+    <script type="text/javascript" src="/scripts/ipl.js"></script>
+    <!-- <script type="text/javascript">
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+
+        $(document).ready(function () {
+
+            $(".mobile_hamburger a").click(function () {
+                $('.main_navbar nav').toggle();
+                $(this).toggleClass('active');
+            });
+
+            $(".dropdown a").click(function () {
+                $(this).next().toggleClass('active');
+                $(this).toggleClass('active');
+            });
+
+            window.onscroll = function () { stickyHeader() };
+
+        });
+
+        function stickyHeader() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("sticky");
+            } else {
+                header.classList.remove("sticky");
+            }
+        }
+    </script> -->
+
+    <script type="text/javascript">
+        if (window.matchMedia("(min-width: 768px)").matches) {
+            var header = document.getElementById("myHeader");
+            var sticky = header.offsetTop;
+
+            $(document).ready(function () {
+                $(".mobile_hamburger a").hover(function () {
+                    $('.main_navbar nav').toggle();
+                    $(this).toggleClass('active');
+                });
+                $(".dropdown a").hover(function () {
+                    $(this).next().toggleClass('active');
+                    $(this).toggleClass('active');
+                });
+                window.onscroll = function () { stickyHeader() };
+            });
+
+            function stickyHeader() {
+                if (window.pageYOffset > sticky) {
+                    header.classList.add("sticky");
+                } else {
+                    header.classList.remove("sticky");
+                }
+            }
+        }
+
+        if (window.matchMedia("(max-width: 767px)").matches) {
+
+            $(window).scroll(function () {
+                var scroll = $(window).scrollTop();
+                if (scroll >= 0) {
+                    $(".header-top").addClass("top-fixed");
+                } else {
+                    $(".header-top").removeClass("top-fixed");
+                }
+            });
+
+            $(document).ready(function () {
+                $(".mobile_hamburger a").click(function () {
+                    $('.main_navbar nav').toggle();
+                    $(this).toggleClass('active');
+                });
+                $(".dropdown a").click(function () {
+                    $(".showInMobile").removeClass('active');
+                    $(this).next().addClass('active');
+                    // $(this).toggleClass('active');
+                });
+
+            });
+        }
+    </script>
+
+</body>
+</html>
